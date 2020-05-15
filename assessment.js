@@ -47,7 +47,8 @@ userNameInput.onkeydown = event => {
 
 const answers = [
     '{userName}は留年です。',
-    '{userName}は進級です。'
+    '{userName}は進級です。',
+    '{userName}は飛び級です'
 ];
 
 /**
